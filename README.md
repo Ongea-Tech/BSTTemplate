@@ -26,7 +26,7 @@ Alternatively, GitHub Classroom will automatically run tests using GitHub Action
 
 ## Example Usage
 ```python
-from BST import BinarySearchTree
+from bst_assignment import BinarySearchTree
 
 bst = BinarySearchTree()
 bst.insert(10)
